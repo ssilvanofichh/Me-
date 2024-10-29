@@ -17,9 +17,9 @@
 ![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square) 
 
 ## Find Me On
-[![Github](https://img.shields.io/badge/GitHub-ssilvanofichh-black?style=for-the-badge&logo=github)](https://github.com/ssilvanofichh)
-[![Github](https://img.shields.io/badge/Spotify-silvanomusic-green?style=for-the-badge&logo=spotify)]([https://twitter.com/MishaKorzhik]https://open.spotify.com/artist/1dADWChSl6Q24ePADjr3nc?si=IDePAxJVQTSnx_BgWZ7jrQ)
-[![Github](https://img.shields.io/badge/Discord-silvanofich-gray?style=for-the-badge&logo=discord)](https://discord.gg/xwpMuMYW57)
+[![Github](https://img.shields.io/badge/GitHub-ssilvanofichh-blue?style=for-the-badge&logo=github)](https://github.com/ssilvanofichh)
+[![Github](https://img.shields.io/badge/Spotify-silvanomusic-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/artist/1dADWChSl6Q24ePADjr3nc?si=IDePAxJVQTSnx_BgWZ7jrQ)
+[![Github](https://img.shields.io/badge/Discord-silvanofich-black?style=for-the-badge&logo=discord)](https://discord.com/users/silvanofich/)
 
 ## Donate
 
@@ -30,13 +30,7 @@
 #### I Recommend To look:
 
 - <a 
-href="https://github.com/mishakorzik/AllHackingTools">AllHackingTools - system for large hacking</a><br>
-- <a href="https://github.com/mishakorzik/py-ddoser">Py-ddoser - Very strong ddos with proxy</a>
-- <a href="https://github.com/mishakorzik/Free-Proxy">Free-Proxy - Lots of free proxy servers</a><br>
-- <a href="https://github.com/mishakorzik/UserFinder">UserFinder - Find users in social</a><br>
-- <a href="https://github.com/mishakorzik/MailFinder">MailFinder - Mail Finder</a><br>
-- <a href="https://github.com/mishakorzik/AdminHack">AdminHack - Hacking admin panel</a><br>
-- <a href="https://github.com/mishakorzik/IpHackk">IpHack - Easy Tracking smartphones</a><br>
+href="https://github.com/ssilvanofichh/">MegaMenu - Very strong menu</a><br>
 
 -------
 ## Systems etc.
